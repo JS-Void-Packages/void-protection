@@ -1,0 +1,19 @@
+{
+  "name": "void-protection",
+  "version": "1.0.0",
+  "description": "Protect your data",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Protection",
+    "encryption",
+    "encrypt"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "dependencies": {
+    "hashids": "^2.2.10"
+  }
+}
