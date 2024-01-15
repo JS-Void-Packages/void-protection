@@ -7,10 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Protection",
+    "protection",
     "encryption",
-    "encrypt"
+    "encrypt",
+	"void"
   ],
+  "repository": {
+    "url": "https://github.com/JS-Void-Packages/void-protection",
+    "type": "git"
+  },
   "author": "Mrthomas20121",
   "license": "MIT",
   "dependencies": {
